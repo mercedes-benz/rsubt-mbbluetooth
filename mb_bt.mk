@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Mercedes-Benz Group AG
 
 # Bluetooth A2DP properties
 
